@@ -63,12 +63,8 @@ hypothesis/
 desktop.ini
 Thumbs.db
 
-# Model files and uploads
-*.h5
+# Temporary uploads
 uploads/
 
 # Virtual environment
 .venv/
-
-# Dataset (too large for git)
-brain_tumor_dataset/
